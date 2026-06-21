@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/connerbester/autodraw-build/Autodraw.csproj": {}
+  },
+  "projects": {
+    "/Users/connerbester/autodraw-build/Autodraw.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/connerbester/autodraw-build/Autodraw.csproj",
+        "projectName": "Autodraw",
+        "projectPath": "/Users/connerbester/autodraw-build/Autodraw.csproj",
+        "packagesPath": "/Users/connerbester/.nuget/packages/",
+        "outputPath": "/Users/connerbester/autodraw-build/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/connerbester/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AsyncImageLoader.Avalonia": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Avalonia": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "Avalonia.AvaloniaEdit": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Avalonia.Desktop": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "Avalonia.Diagnostics": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "Avalonia.Fonts.Inter": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "Avalonia.Markup.Xaml.Loader": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "Avalonia.ReactiveUI": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.2.4, )"
+            },
+            "AvaloniaEdit.TextMate": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Markdown.Avalonia.Tight": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.27, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[112.1.0, )"
+            },
+            "SharpHook": {
+              "target": "Package",
+              "version": "[5.3.8, )"
+            },
+            "TextMateSharp.Grammars": {
+              "target": "Package",
+              "version": "[1.0.66, )"
+            },
+            "UVtools.AvaloniaControls": {
+              "target": "Package",
+              "version": "[4.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet@8/8.0.127/libexec/sdk/8.0.127/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-arm64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

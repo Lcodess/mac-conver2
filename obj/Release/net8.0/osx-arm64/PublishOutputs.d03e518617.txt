@@ -1,0 +1,11 @@
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/Styles/Anime/anime.axaml
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/Styles/Landscape/landscape.axaml
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/Styles/Anime/character.png
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/Styles/Landscape/landscape.jpg
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/autodraw-compat.bat
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/libAvaloniaNative.dylib
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/libHarfBuzzSharp.dylib
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/libonigwrap.dylib
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/libuiohook.dylib
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/libSkiaSharp.dylib
+/Users/connerbester/Downloads/Autodraw-macos-arm64/Autodraw/Autodraw
